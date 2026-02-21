@@ -2,6 +2,8 @@
 
 A modern, responsive dashboard interface built with HTML, CSS, and vanilla JavaScript. Perfect for learning responsive web design principles and creating admin/learning management dashboards.
 
+## 👀🤙 Preview 
+![Responsive Dashboard Design](./Responsive%20Dashboard%20Code%20Output%20image.png)
 ## 🎯 Features
 
 - **Fully Responsive Design** - Adapts seamlessly to desktop, tablet, and mobile devices
